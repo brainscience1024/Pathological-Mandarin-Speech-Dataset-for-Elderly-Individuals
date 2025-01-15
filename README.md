@@ -6,7 +6,7 @@ This dataset is designed to support research on cognitive impairment screening a
 
 Key Details
 
-1）Total Audio Samples: 1000
+1）Total Audio Samples: 1100
 2）Language: Chinese
 3）Acoustic Features: Includes keywords, phonetic details, pitch, formants, and other prosodic elements essential for cognitive state analysis.
 4）Target Population: Elderly individuals with varying cognitive states, including normal and impaired.
